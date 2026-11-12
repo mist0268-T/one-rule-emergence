@@ -1,0 +1,22 @@
+# Local dependencies and generated render previews
+node_modules/
+previews/
+
+# Local exports and historical working copies
+exports/
+backups/
+deploy-package/
+play-site/
+*.zip
+*.tar.gz
+
+# Local configuration and system files
+.env
+.env.*
+!.env.example
+.codex/
+.agents/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log

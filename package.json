@@ -1,0 +1,13 @@
+{
+  "name": "one-rule-emergence",
+  "version": "0.6.0",
+  "private": true,
+  "description": "A single-file rule-based logistics puzzle game about emergence.",
+  "scripts": {
+    "start": "node tools/local-preview.cjs",
+    "test": "node tests/game.test.cjs && node tests/polish.test.cjs",
+    "test:polish": "node tests/polish.test.cjs",
+    "test:visual": "node tests/visual.test.cjs",
+    "sync:renderer": "node tools/install-warehouse-renderer.cjs"
+  }
+}
